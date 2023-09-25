@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @funiie
+- 👋 Hi, I’m @Funiwe Nyawo
 - 👀 I’m interested in cybersecurity and ethical hacking 
 - 🌱 I’m currently learning CS50 Introduction to python programming 
 - 💞️ I’m looking to collaborate on ...
