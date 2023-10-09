@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Funiwe Nyawo
-- 👀 I’m interested in cybersecurity and ethical hacking 
+- 👀 I’m interested in cybersecurity, network security and ethical hacking 
 - 🌱 I’m currently learning CS50 Introduction to python programming 
 - 📫 How to reach me funiwenyawo@gmail.com
 
