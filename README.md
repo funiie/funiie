@@ -7,18 +7,17 @@
 <h2>💻 Python Projects </h2>
 
   - [CS50 Introduction to Python Programming](https://github.com/funiie/CS50P-Solutions)
-
-<h2>⌨️ Web Development Projects </h2>
-
-  - [Landing page](https://github.com)
-
-<h2>🎓 Oasis Infobyte Python Intership </h2>
-
+    
   - [BMI Calculator](https://github.com)
 
   - [Weather APP](https://github.com)
 
   - [Password Geerator](https://github.com)
+
+<h2>⌨️ Web Development Projects </h2>
+
+  - [Landing page](https://github.com)
+
     
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="Funiwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
