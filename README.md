@@ -6,7 +6,7 @@
 
 <h2>💻 Python Projects </h2>
 
-  - [CS50 Introduction to Pytho Programming](https://github.com)
+  - [CS50 Introduction to Pytho Programming](https://github.com/funiie/CS50P-Solutions)
 
 <h2>⌨️ Web Development Projects </h2>
 
