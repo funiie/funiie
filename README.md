@@ -12,7 +12,7 @@
 
   - [Weather APP](https://github.com)
 
-  - [Password Geerator](https://github.com)
+  - [Password Generator](https://github.com)
 
 <h2>⌨️ Web Development Projects </h2>
 
