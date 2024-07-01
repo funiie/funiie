@@ -1,4 +1,4 @@
-<h1>Hi, I'm Funiwe <br/><a href="https://github.com/funiie">Cybersecurity Enthusiasts</a>, <a href="https://github.com/funiie">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/funiwe-nyawo/">Aspiring Python Programmer</a> </h1>
+<h1>Hi, I'm Funiwe  <br/><a href="https://github.com/funiie">Cybersecurity Enthusiasts</a>, <a href="https://github.com/funiie">Ethical Hacker</a> and <a href="https://www.linkedin.com/in/funiwe-nyawo/">Aspiring Python Programmer</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
