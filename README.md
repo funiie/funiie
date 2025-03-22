@@ -1,4 +1,4 @@
-<h1>Hello, I'm Funiwe Nyawo.<br/><a href="https://cybersmartwithfuni.wordpress.com">Cybersecurity Advocate</a>, <a href="https://www.linkedin.com/in/funiwe-nyawo">Network Engineer</a> and <a href="https://www.linkedin.com/in/funiwe-nyawo">Aspiring Python Programmer</a> </h1>
+<h1>Hello, I'm Funiwe Nyawo.<br/><a href="https://cybersmartwithfuni.wordpress.com">Cybersecurity Advocate</a>, <a href="https://www.linkedin.com/in/funiwe-nyawo">Network Security Engineer</a> and <a href="https://www.linkedin.com/in/funiwe-nyawo">Aspiring Python Programmer</a> </h1>
 
 ## 👩🏾‍🎓 About Me 
 
